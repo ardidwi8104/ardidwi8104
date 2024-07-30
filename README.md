@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ardi Dwi Saputra and I'm a Student at the Kalimantan Institute of Technology, from Penajam Paser Utara</h2>
+<h2 align="left">Hi 👋! My name is Ardi Dwi Saputra and I'm a Student at the Kalimantan Institute of Technology, from Penajam Paser Utara.</h2>
 
 ###
 
